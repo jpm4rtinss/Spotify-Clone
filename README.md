@@ -14,11 +14,13 @@ Spotify Clone</h1>
 ## Mobile
   <img src="https://github.com/jpm4rtinss/Spotify-Clone/blob/master/imagens/spotify-mobile.PNG" alt="home web" height="425">
 
-
-
 ## Tech Stack
 
 - **CSS** Bootstrap 4
 -  **HTML** 
+
+## Language
+
+- **Portuguese - BR**
 
 

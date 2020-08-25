@@ -2,7 +2,7 @@
 <h1 align="center">
 Spotify Clone</h1>
 
-<p align="center">Tela inicial do Spotify clonada para o curso de web desenvolvimento da Udemy com HTML, CSS utilizando a biblioteca Boostrap 4 para o layout</p>
+<p align="center">Spotify home screen cloned for the Udemy web development course with HTML, CSS using the Boostrap4 library for the layout</p>
 
  ## Web
 <div>   
@@ -16,9 +16,9 @@ Spotify Clone</h1>
 
 
 
-## Features
+## Tech Stack
 
--  **Bootstrap 4**  
--  **Html** 
+- **CSS** Bootstrap 4
+-  **HTML** 
 
 
